@@ -1,1 +1,1 @@
-# free-api
+# Paid-Api
